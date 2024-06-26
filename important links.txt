@@ -1,0 +1,25 @@
+https://www.kaggle.com/datasets/hugodarwood/epirecipes?select=epi_r.csv
+my 1st dataset
+
+
+https://www.kaggle.com/datasets/stoicstatic/fooddata-central-nutrition-and-component-data?select=food_component.csv
+alternative dataset
+
+
+
+https://datasetsearch.research.google.com/search?src=0&query=food%20nutrients%20and%20user%20ratings&docid=L2cvMTFqbnpybjMzYg%3D%3D
+سيرش google data
+
+
+
+https://www.kaggle.com/code/niharika41298/food-nutrition-analysis-eda/data
+food nutrition analysis data
+
+
+https://tools.myfooddata.com/nutrition-facts-database-spreadsheet.php
+nutrition database
+
+
+
+https://www.kaggle.com/code/impratiksingh/unsupervised-learning
+unsupervised learning notebook
